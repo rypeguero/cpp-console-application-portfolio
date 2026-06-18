@@ -1,13 +1,29 @@
-In this class I focused on C++ language. I made three projects which included a clock application, a banking app, and a grocery management system, each addressing specific problems. The clock project solves the issue of time representation by providing both 12-hour and 24-hour formats, catering to different user preferences. The banking app helps users manage their finances by displaying account balances, monthly deposits, annual interests, and the number of years, aiding in financial planning. The grocery app focuses on inventory management by registering item types and maintaining an updated count of stock after purchases, ensuring efficient stock tracking.
+# CS 210 Programming Languages
 
-In these projects, I was proficient at implementing clear and logical structures that effectively addressed the core functionalities required. For instance, the clock application likely involved precise time calculations and formatting, which I handled well. Similarly, the banking and grocery apps demonstrated my ability to create user-friendly interfaces and manage data efficiently, making them accessible and practical for end-users.
+This repository contains C++ coursework from **CS 210: Programming Languages**. The projects demonstrate foundational programming skills, including console application design, input validation, file processing, modular functions, and use of data structures.
 
-To enhance my code, I focused on improving performance by ensuring efficient handling of large datasets or frequent updates. Implementing robust error handling and input validation was crucial for improving security and reliability, as it helps prevent incorrect inputs and potential vulnerabilities. Additionally, refactoring the code into smaller, reusable functions or classes increased modularity, making it easier to maintain and extend in the future.
+## Projects Included
 
-The most challenging parts of my code was handling complex calculations or managing dynamic data structures. However, I overcame these challenges by breaking down problems into smaller tasks and using debugging tools to test each part. To support my development process, I was able to search from resources like online forums, C++ documentation, and coding communities to learn more about how can I make my projects more reliable and user-friendly. These actions provided me with valuable insights and solutions.
+| Project | Purpose |
+|---|---|
+| Clock Application | Displays time in 12-hour and 24-hour formats and reinforces control flow, formatting, and menu-driven logic. |
+| Banking Application | Calculates balances, deposits, interest, and long-term growth to support financial planning scenarios. |
+| Grocery Inventory Application | Reads and manages item frequency data to support inventory lookup and reporting. |
 
-Some skills acquired from these projects, such as problem-solving and data management, are highly transferable to other programming tasks and coursework. My experience in effectively managing data structures will be beneficial across various domains, enhancing my ability to tackle diverse challenges.
+## Skills Demonstrated
 
-To conclude, I ensured my programs were maintainable, readable, and adaptable by using consistent naming conventions and meaningful variable names, which improved clarity. Adding comments and documentation helped explain complex logic and the purpose of functions, facilitating easier understanding and collaboration. By structuring my code into functions or classes, I allowed for easy updates and scalability, ensuring my projects remain robust and adaptable to future changes.
+- C++ programming fundamentals
+- Menu-driven console applications
+- File input and output
+- Input validation and error handling
+- Modular functions and readable code organization
+- Basic data processing and reporting
+- Practical problem-solving through small applications
 
-Thank you for reading. 
+## Reflection
+
+This coursework helped strengthen my ability to break programming problems into smaller, manageable components. I practiced designing programs that accept user input, process data, and return clear results. I also learned the importance of readable structure, descriptive naming, and testing edge cases so that programs remain maintainable and easier to improve.
+
+## Portfolio Value
+
+These projects represent early C++ development work and demonstrate growth in programming logic, data handling, and structured application design.

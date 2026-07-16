@@ -48,13 +48,13 @@ The repository includes [`CS210_Project_Three_Input_File.txt`](./CS210_Project_T
 
 ## Project Documentation
 
-The full documentation explains each application's purpose, execution flow, major functions, data structures, build commands and potential improvements.
+Supporting documentation is available for the application designs, program flows and project requirements.
 
-<p align="center">
-  <a href="./docs/CS-210-Project-Documentation.md"><strong>View Project Documentation</strong></a>
-  &nbsp;•&nbsp;
-  <a href="./docs/CS-210-Project-Documentation.md?raw=1"><strong>Download Documentation</strong></a>
-</p>
+| Document | Description | Link |
+|---|---|---|
+| Complete Project Documentation | Overview of all three applications, including responsibilities, structures, execution flow and improvements | [View Markdown](./docs/CS-210-Project-Documentation.md) |
+| Airgead Banking Flowcharts | Word document containing the banking application's design flowcharts and planning materials | [Download DOCX](./docs/airgeadbaking%20flowsheets%20RP(1).docx?raw=1) |
+| Corner Grocer Documentation | Word document containing supporting documentation for the grocery inventory application | [Download DOCX](./docs/Groceryapp%20documentation.docx?raw=1) |
 
 ## Application Design
 
@@ -107,7 +107,9 @@ CS-210-Programming-Languages/
 ├── CS210_Project_Three_Input_File.txt
 ├── README.md
 └── docs/
-    └── CS-210-Project-Documentation.md
+    ├── CS-210-Project-Documentation.md
+    ├── airgeadbaking flowsheets RP(1).docx
+    └── Groceryapp documentation.docx
 ```
 
 ## Concepts Demonstrated
